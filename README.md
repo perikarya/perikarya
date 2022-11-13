@@ -1,5 +1,5 @@
-👋 
-- 👀 interested in computational neurobiology 👀
+
+- interested in computational neurobiology 👀
 - html, css, python, r, javascript 💫
 - currently learning rust 🌱 
 
